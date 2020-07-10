@@ -96,5 +96,6 @@ while (True):
    # time.sleep(0.1)
 
 cap.release()
+
 cv2.destroyAllWindows()    
 
